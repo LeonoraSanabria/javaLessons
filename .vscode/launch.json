@@ -1,0 +1,28 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Function2",
+            "request": "launch",
+            "mainClass": "Function2"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Function",
+            "request": "launch",
+            "mainClass": "Function"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ArrayPractice",
+            "request": "launch",
+            "mainClass": "ArrayPractice"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ArrayPracitce",
+            "request": "launch",
+            "mainClass": "ArrayPracitce"
+        }
+    ]
+}
